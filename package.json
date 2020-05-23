@@ -1,0 +1,19 @@
+{
+  "name": "plotting-bitcoin-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheShubham-K/Bitcoin-Master.git"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheShubham-K/Bitcoin-Master/issues"
+  },
+  "homepage": "https://github.com/TheShubham-K/Bitcoin-Master#readme"
+}
